@@ -1,0 +1,75 @@
+/*header*/
+.background {
+	background-color: #2E8B57;
+}
+.liplace{
+	
+	display: inline-block;
+	width: 100px;
+	padding:90px;
+	text-transform: uppercase;
+	color: white;
+	font-size: 25px;
+}
+.navclass{
+	float: right;
+	margin-right: 100px;
+}
+.imagearrow {
+	width: 200px;
+	height: 151px;
+	float: right;
+	margin: 50px;
+	vertical-align: middle;
+}
+.clear{
+	 clear: both;
+}
+/*news boxes*/
+.pic1 {
+	width: 150px;
+	height: 118px;
+	float: right;
+	margin: 10px;
+}
+.box1 {
+	box-sizing: 600px;
+	background-color: yellow;
+	float: right;
+	
+	
+}
+.text{
+	width: 400px;
+
+}
+.clear{ 
+clear: both; }
+
+.box2{
+	float: right;
+	box-sizing: 600px;
+	background-color: yellow;
+	margin-left: 50px;
+
+
+
+}
+.pic2 {
+	
+	width: 150px;
+	height: 118px;
+	float: left;
+	margin: 10px;
+}
+.text2{
+	width: 400px;
+
+}
+.clear{
+	clear: both;
+}
+
+
+
+
